@@ -66,7 +66,7 @@ I´m software who love new challenges & OpenSource contributions. My goal is to 
 <br>
 <hr>
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readmestats.vercel.app/api/?username=RichardWesley&theme=dracula" datacanonical-src="https://github-
+<img align="left" alt="Murilo's Github Stats" src="https://github-readmestats.vercel.app/api/?username=RichardWesley&theme=dracula" datacanonical-src="https://github-
 readmestats.vercel.app/api?username=MuriloAugusto&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
 
 
